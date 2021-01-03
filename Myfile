@@ -7,62 +7,6 @@
     </head>
     
     <body>
-        <div id="bloc_page">
-            <header>
-                <div id="titre_principal">
-                    <div id="logo">
-                        <img src="images/zozor_logo.png" alt="Logo de Zozor" />
-                        <h1>Zozor</h1>    
-                    </div>
-                    <h2>Carnets de voyage</h2>
-                </div>
-                
-                <nav>
-                    <ul>
-                        <li><a href="#">Accueil</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">CV</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </nav>
-            </header>
-            
-            <div id="banniere_image">
-                <div id="banniere_description">
-                    Retour sur mes vacances aux États-Unis...
-                    <a href="#" class="bouton_rouge">Voir l'article <img src="images/flecheblanchedroite.png" alt="" /></a>
-                </div>
-            </div>
-            
-            <section>
-                <article>
-                    
-                </article>
-                <aside>
-                    
-                </aside>
-            </section>
-            
-            <footer>
-                <div id="tweet">
-                   
-                </div>
-                <div id="mes_photos">
-                    <h1>Mes photos</h1>
-                    <p><img  /></p>
-                </div>
-                <div id="mes_amis">
-                    <h1>Mes amis</h1>
-                    <div id="listes_amis">
-                        <ul>
-                           
-                        </ul>
-                        <ul>
-                            
-                        </ul>
-                    </div>
-                </div>
-            </footer>
-        </div>
+  <h2>Zozor - Carnets de voyage</h2>
     </body>
 </html>
